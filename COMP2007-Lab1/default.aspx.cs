@@ -10,7 +10,8 @@ using System.Web.UI.WebControls;
  * Name: Blaine Parr
  * Date: May 14, 2015
  * Purpose: This program allows the user to enter information about themself and submit it. When
- * they submit their information the program
+ * they submit their information, the program will display that information at the bottom of the
+ * form.
  */
 namespace COMP2007_Lab1
 {
