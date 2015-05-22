@@ -50,7 +50,7 @@
                         </asp:RadioButtonList>
                     </div><!--form-group ends-->
                     <div class="form-group">
-                        <asp:CheckBox ID="LaptopCheckBox" runat="server" Text="Yes, I have a laptop" />
+                        <asp:CheckBox ID="LaptopCheckBox" runat="server" Text="Do you have a laptop? (Check if yes)" />
                     </div><!--form-group ends-->
                     <div class="form-group">
                         <asp:Label ID="SkillsLabel" CssClass="formLabel" runat="server" Text="Skills List:"></asp:Label>
